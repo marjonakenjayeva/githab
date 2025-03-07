@@ -1,0 +1,100 @@
+*{
+ margin: 0; 
+ padding: 0;
+ box-sizing: border-box;
+}
+body{
+    background-color: brown;
+}
+
+.sarlavha{
+    margin: 0px 20px;
+    margin-top: 40px;
+    background-color: aqua;
+    color: white;
+    text-align: center;
+}
+.box{
+    background-color: antiquewhite;
+   margin: 20px 20px;
+}
+
+.card1{
+    width: 290px;
+   padding: 10px;
+   
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;}
+.card1 i{
+    font-size: 100px;
+    color: rgb(10, 146, 237);}  
+h4{
+    margin-top: 10px;}
+p{
+    margin-top: 10px;
+    color: rgb(101, 99, 99);
+    font-size: 13px;}
+button{
+    margin-top: 10px;
+    font-size: 9px;
+    width: 80px;
+   height: 25px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;}
+
+
+.card2{
+    padding: 10px;
+     width: 290px;
+     border: 1px solid black;
+     border-radius: 10px;
+     text-align: center;
+     background-color: white;
+     margin: 15px 0 ;}
+.card2 i{
+     font-size: 70px;} 
+ h4{
+    margin-top: 10px;}
+ p{
+     margin-top: 10px;
+     color: rgb(101, 99, 99);
+     font-size: 13px;}
+ button{
+     margin-top: 10px;
+     font-size: 9px;
+     width: 80px;
+    height: 25px;
+   border-radius: 20px;
+   background-color: black;
+   color: white;}
+
+ 
+
+ .card3{
+    padding: 10px;
+     width: 290px;
+     border: 1px solid black;
+     border-radius: 10px;
+     text-align: center;
+     background-color: white;}
+.card3 i{
+    font-size: 90px;
+    color: red;}
+h4{
+margin-top: 10px;}
+ p{
+     margin-top: 10px;
+     color: rgb(101, 99, 99);
+     font-size: 13px;}
+ button{
+     margin-top: 10px;
+     font-size: 9px;
+     width: 80px;
+    height: 25px;
+   border-radius: 20px;
+   background-color: black;
+   color: white;}
+ 
